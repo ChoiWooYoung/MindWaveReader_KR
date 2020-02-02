@@ -1,4 +1,4 @@
-## MindWaveReade_KR
+## MindWaveReader_KR
 [![Github Releases](https://img.shields.io/badge/release-v1.5.1-green.svg?style=flat)](https://github.com/ChoiWooYoung/MindWaveReader_KR/releases)
  * Based On https://github.com/webdesigniran/MindWaveReader by WebDesignIran
  * KR Language
