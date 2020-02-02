@@ -17,7 +17,7 @@
 2. CSV File Saving Support
 3. Automatically Simulate and save to CSV
 4. Multiple CSV Write Enabled
-5. v1.5.1 is Final Version (until I find new bug)
+5. v1.5.1 is Final Version 
 
 ### Fixed Error
  * IOException named ObjectDisposedException
